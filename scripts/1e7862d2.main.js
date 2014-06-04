@@ -1,0 +1,1 @@
+"use strict";var App=App||{};App={init:function(){jQuery("#wrapper").snappish()}},jQuery(document).ready(function(){App.init()});
